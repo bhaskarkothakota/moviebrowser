@@ -7,8 +7,9 @@ const AboutView = () => {
         <div className="row">
           <div className="col-lg-8 offset-lg-2 my-5">
             <p className="lead">
-              <b>Hai this is Jarvis I am here to learn react with the help of this
-              Boot camp.....................
+              <b>
+               Along with extensive metadata for movies, TV shows and people, we also offer one of the best selections of high resolution posters and fanart.
+               On average, over 1,000 images are added every single day.
                Lets keep things simple.</b>
             </p>
           </div>
